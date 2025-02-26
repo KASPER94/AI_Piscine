@@ -1,6 +1,5 @@
 
-
-all: 
+all:
 	make build
 	make up
 
